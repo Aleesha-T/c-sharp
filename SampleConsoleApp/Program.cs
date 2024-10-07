@@ -116,7 +116,7 @@ namespace SampleConsoleApp
             //}
             //Console.ReadLine();
 
-            Console.WriteLine("Enter rows");
+            /*Console.WriteLine("Enter rows");
             int rows = Convert.ToInt32(Console.ReadLine());
             int totalSpace = rows + 5;
             int i = 0;
@@ -137,7 +137,7 @@ namespace SampleConsoleApp
                 Console.WriteLine();
                 totalSpace--;
             }
-            Console.ReadLine();
+            Console.ReadLine(); */
 
 
 
