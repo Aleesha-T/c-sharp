@@ -8,5 +8,6 @@ namespace SampleConsoleApp
 {
     internal class Multclass
     {
+
     }
 }
