@@ -8,8 +8,7 @@ namespace SampleConsoleApp
 {
     internal class Multclass
     {
-        static void Main(string[] args)
-        {
+        
             //Qn. 1
             //Console.WriteLine("Your Name?");
             //string userName = Console.ReadLine();
@@ -560,6 +559,6 @@ namespace SampleConsoleApp
                 Console.WriteLine("Tax to be paid is: " + tax4); //outputs if salary greater than 50000 and age greater than or equal to 60
             }
             Console.ReadLine();
-        }
+        
     }
 }
